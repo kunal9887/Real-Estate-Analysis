@@ -89,4 +89,4 @@ Showed price movement trends by property type and city, guiding strategic decisi
 d. Sales Efficiency Monitoring –
 Tracked how long properties stayed on the market and correlated pricing with speed of sale.
 
-Screenshot – 
+Screenshot – 1-f9f764da.png
