@@ -89,4 +89,4 @@ Showed price movement trends by property type and city, guiding strategic decisi
 d. Sales Efficiency Monitoring –
 Tracked how long properties stayed on the market and correlated pricing with speed of sale.
 
-Screenshot – 1-f9f764da.png
+Screenshot – https://github.com/kunal9887/Real-State-Analysis/blob/main/1-f9f764da.png
